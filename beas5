@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>bea landing page</title>
+</head>
+<body TEXT="#E900FF" LINK="#FF0000" VLINK="#FF0000" ALINK="#FF8000" background="purplesqr.png">
+  <CENTER><P><A HREF="index.html"><IMG SRC="beazone.gif" ALT="home page"></A></P></CENTER>
+  <CENTER><P><A><FONT SIZE=+4>click img for full res</FONT> </A></P></CENTER>
+  <CENTER><P><A HREF="conniekimmickcomm2.png"><IMG SRC="conniecomm2.gif" ALT="click for full size"></A></P>  </CENTER>
+  <CENTER><P><A HREF="https://twitter.com/conniekimmick"><FONT SIZE=+2>art by connie kimmick on twittr</FONT> </A></P></CENTER>
+  <CENTER><P><A HREF="beas.html"><FONT SIZE=+3>NEXT PAGE</FONT> </A></P></CENTER>
+</body>
+</html>
